@@ -11,6 +11,10 @@ The analysis was conducted using Tableau Public, a powerful data visualization t
 
 # Results and Discussion
 
+![Transaction made by each address over time](https://github.com/vincentakulinda/Ethereum-Blockchain-Data-Analysis/assets/40827558/31aacf82-c4f4-469c-bca4-f48a46d49b62)
+![Gas used to each address over the time](https://github.com/vincentakulinda/Ethereum-Blockchain-Data-Analysis/assets/40827558/26c82ecf-a020-49de-ac13-768eeb366dc0)
+![Relationship Between Transaction Value and Gas Price For each Address](https://github.com/vincentakulinda/Ethereum-Blockchain-Data-Analysis/assets/40827558/1450d8cc-f920-4f2d-9659-c7131cb422a0)
+![Variation of Gas price and Gas used  by each Transaction](https://github.com/vincentakulinda/Ethereum-Blockchain-Data-Analysis/assets/40827558/a28e245f-e764-479f-b52b-5c7ed3e991e9)
 
 # Conclussion
 The analysis of Ethereum transaction data provided valuable insights into transaction patterns, value distribution, and gas usage. These findings could inform investment and trading strategies, and suggest that further research could investigate the reasons behind these patterns.
